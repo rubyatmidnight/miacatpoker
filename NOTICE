@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# Miacat Poker System
+Original creation and design by @rubyatmidnight
+2025, rubyatmidnight
+
+This implementation of the Miacat Poker System is the reference implementation created by the original author. While this software is free to use and modify under the AGPL-3.0 license, any claims about compliance with or correct implementation of the Miacat Poker System implementation or methodology must be verified by the original author, cryptographically signed below. 
+
+For verification and endorsement inquiries, please contact: 
+
+@rubyatmidnight
+github.com/rubyatmidnight
+rubyatmidnight@proton.me (Fingerprint: C8E8D5B5CD19692D201FEC3E41D2C010C12A4F14) 
+ruby@stakestats.net (Fingerprint: A6121FBF13A3F7B23ED7C66C5BB66C425A4FB806)
+
+To validate this notice as true, please ensure the PGP signature can be certified using the public key available by contacting the above.
+-----BEGIN PGP SIGNATURE-----
+
+iLkEARMKAB0WIQTI6NW1zRlpLSAf7D5B0sAQwSpPFAUCZ5PKxAAKCRBB0sAQwSpP
+FBkIAgkBscEHe/UZm3X6yQXgHolXE8EOst/ve3e2I9l2fb1Jbg2684rjtANqbpC0
+gLjGh9V5OPOkmm2Jx+0ZkAwOKqK12EYCCQH5dDKtfCKtP4g+c7Va7FDBgoE385ME
+nJVhb7TY0WEpa0jSqYzqvgdNFwE13ny14Nk5c/VqBWGsABMkZWFU0yqnBg==
+=R0qw
+-----END PGP SIGNATURE-----
