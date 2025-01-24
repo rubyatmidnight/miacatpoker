@@ -27,8 +27,8 @@ A provably fair poker system using SHA-512 hashing and cryptographic randomness 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/MiacatPokerSystem
-cd MiacatPokerSystem
+git clone https://github.com/rubyatmidnight/miacatpoker/
+cd miacatpoker
 pip install -r requirements.txt
 ```
 
