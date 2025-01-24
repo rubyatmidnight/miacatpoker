@@ -51,7 +51,7 @@ This will:
 ### Verifying a Game
 
 ```bash
-python miaverify.py
+py miaverify.py
 ```
 
 The verifier will:
